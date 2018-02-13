@@ -1,0 +1,219 @@
+## intent:greet
+- hey
+- hello
+- hi
+- hello there
+- good morning
+- good evening
+- hey there
+- let's go
+- hey dude
+- goodmorning
+- goodevening
+- good afternoon
+
+## intent:password_reset
+- I want to reset my password
+- I want to modify my password
+- Can you help me with password reset?
+- Help me with modifying my password
+- Please help me regarding change of password
+- Help me with the password reset 
+- Please change my password
+- I need to reset my password
+
+## intent:inform_what_password
+- Enterprise
+- GroupInfra
+
+## intent:inform_groupinfra
+- I want to reset my groupinfra password
+- I want to reset password for my groupinfra account
+
+## intent:inform_enterprise
+- I want to reset my enterprise password
+- I need to look at my enterprise account
+- I want to reset password for my enteprise account
+
+## intent:inform_PSAID
+- [803852](PSAID)
+- [745173](PSAID)
+- [380789](PSAID)
+- [477532](PSAID)
+- [402019](PSAID)
+- [702192](PSAID)
+- [646481](PSAID)
+- [783681](PSAID)
+- [453440](PSAID)
+- [514828](PSAID)
+- [274531](PSAID)
+- [715814](PSAID)
+- [483399](PSAID)
+- [115795](PSAID)
+- [269947](PSAID)
+- [125863](PSAID)
+- [468267](PSAID)
+- [838690](PSAID)
+- [488219](PSAID)
+- [281029](PSAID)
+- [686006](PSAID)
+- [995071](PSAID)
+- [703645](PSAID)
+- [793710](PSAID)
+- [322927](PSAID)
+- [691357](PSAID)
+- [149602](PSAID)
+- [769550](PSAID)
+- [650908](PSAID)
+- [224744](PSAID)
+- [428333](PSAID)
+- [140646](PSAID)
+- [901765](PSAID)
+- [808002](PSAID)
+- [887332](PSAID)
+- [399838](PSAID)
+- [706290](PSAID)
+- [992909](PSAID)
+- [668393](PSAID)
+- [142423](PSAID)
+- [294577](PSAID)
+- [837610](PSAID)
+- [267967](PSAID)
+- [412654](PSAID)
+- [987271](PSAID)
+- [700792](PSAID)
+- [768884](PSAID)
+- [338472](PSAID)
+- [616904](PSAID)
+- [607111](PSAID)
+
+## intent:inform_name
+- [Liam Emma](name)
+- [Noah Olivia](name)
+- [Oliver Ava](name)
+- [Elijah Harper](name)
+- [Mason Sophia](name)
+- [William Charlotte](name)
+- [Jackson Amelia](name)
+- [Carter Abigail](name)
+- [Lucas Isabella](name)
+- [Owen Mia](name)
+- [Alexander Evelyn](name)
+- [Wyatt Lillian](name)
+- [Benjamin Addison](name)
+- [James Avery](name)
+- [Henry Emily](name)
+- [Grayson Elizabeth](name)
+- [Ethan Nora](name)
+- [Hunter Madison](name)
+- [Michael Aubrey](name)
+- [Jacob Brooklyn](name)
+- [Luke Zoey](name)
+- [Gabriel Ella](name)
+- [Landon Piper](name)
+- [Samuel Grace](name)
+- [Jaxon Paisley](name)
+- [Levi Scarlett](name)
+- [Logan Chloe](name)
+- [Lincoln Ellie](name)
+- [David Aria](name)
+- [Isaac Claire](name)
+- [John Layla](name)
+- [Aiden Lily](name)
+- [Hudson Eleanor](name)
+- [Daniel Audrey](name)
+- [Joshua Hannah](name)
+- [Andrew Lydia](name)
+- [Joseph Natalie](name)
+- [Eli Penelope](name)
+- [Jack Kennedy](name)
+- [Nolan Lucy](name)
+- [Easton Sofia](name)
+- [Brayden Stella](name)
+- [Caleb Aurora](name)
+- [Connor Serenity](name)
+- [Matthew Anna](name)
+- [Bentley Cora](name)
+- [Isaiah Allison](name)
+- [Colton Riley](name)
+- [Charles Violet](name)
+- [Jaxson Adalynn](name)
+
+## intent:inform_email
+- [octocat@github.com](email)
+- [support@github.com](email)
+- [poonzheng5798@yahoo.com](email) 
+- [burgergirl96@hotmail.com](email) 
+- [insyirah_powergals@hotmail.com](email) 
+- [little_princess-angel@hotmail.com](email) 
+- [ifah_duff@hotmail.com](email) 
+- [tweety_butt@hotmail.com](email) 
+- [choco_ela@hotmail.com](email) 
+- [princessdyanah@hotmail.com](email) 
+- [isabelle_gal@hotmail.com](email) 
+- [choco_ela@hotmail.com](email)
+- [tweety_butt@hotmail.com](email)
+- [emotionallady_94@hotmail.com](email) 
+- [weiheng1998@yahoo.com.sg(email) 
+- [nas_wify011005@hotmail.com](email) 
+- [issabelle_gal@hotmail.com](email) 
+- [zihah_lovepurple@hotmail.com](email) 
+- [adeline-98@hotmail.com](email) 
+- [ifah_duff@hotmail.com](email) 
+- [fionachiwei@hotmail.com](email) 
+- [frens_luv_sad_hatred@hotmail.com](email) 
+- [clara1_wong@hotmail.com](email) 
+- [burgergirl96@gmail.com](email) 
+- [princess_dyanah@hotmail.com](email) 
+- [a_qilah@hotmail.com](email) 
+- [genevieve.goh@hotmail.com](email) 
+- [ngai_nicole@hotmail.com](email) 
+- [anisah2511@yahoo.com.sg](email) 
+- [arissaardianty@yahoo.com.sg](email) 
+- [kid_diyanah@hotmail.com](email)
+- [little_princess-angel@hotmail.com](email) 
+- [aniqah1303@yahoo.com.sg](email)
+- [nur-filzah@hotmail.com](email) 
+- [th3_finalez@hotmail.com](email)
+- [insyirah_powergals@hotmail.com](email) 
+- [kfc_96@hotmail.com](email) 
+- [add_friend@mail.friendster.com](email) 
+- [pinky_omek@hotmail.com](email) 
+- [alicia-0809@hotmail.com](email) 
+- [oeighto@gmail.com](email) 
+- [dareenpuff@hotmail.com](email) 
+- [fatin_danial@hotmail.com](email) 
+- [goodyme@hotmail.com](email) 
+- [natasha_gal_0407@hotmail.com](email) 
+- [nur_ashikin_90@hotmail.com](email) 
+- [pbluebear_mas66@hotmail.com](email) 
+- [chocsfreaksme_fiza@hotmail.com](email) 
+- [redgurlz_3@hotmail.com](email) 
+- [faith_awsome85@yahoo.com](email)
+- [nita_cutie@hotmail.com](email) 
+- [nur-filzah@hotmail.com](email) 
+- [pwincess_pink97@hotmail.com](email) 
+- [quik_boi93@hotmail.com](email) 
+- [winter_times@hotmail.com](email) 
+- [xuanji06@hotmail.com](email) 
+- [issabelle_gal@hotmail.com](email) 
+- [tweety_butt@hotmail.com](email) 
+- [kkshrestha@hotmail.com](email) 
+- [sammysamrat@hotmail.com](email) 
+- [thakursantu@hotmail.com](email)
+- [tararegmi1@hotmail.com](email)
+- [gaurav_sumit@hotmail.com](email)
+- [preetyshrestha@hotmail.com](email)
+
+## intent:goodbye
+- cu
+- good by
+- cee you later
+- good night
+- good afternoon
+- bye
+- goodbye
+- have a nice day
+- see you around
+- bye bye
+- see you later

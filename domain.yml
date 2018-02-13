@@ -1,0 +1,62 @@
+slots:
+  PSAID:
+    type: text
+  name:
+    type: text
+  email:
+    type: text
+  groupinfra:
+    type: text
+  enterprise:
+     type: text
+entities:
+  - PSAID
+  - name
+  - email
+  - what_password
+ 
+intents:
+  - greet
+  - password_reset
+  - inform_wpassword
+  - inform_name
+  - inform_PSAID
+  - inform_email
+  - request_info
+  - goodbye
+ 
+templates:
+  utter_greet_howmayihelp:
+  - text: "Hello I'm Jenny, How may i help you today?"
+  utter_password_reset:
+  - text: "Ok let me check!"
+  utter_ask_what_password:
+  - text: "Which password you wish to reset?"
+    buttons:
+    - title: "GroupInfra"
+      payload: "GroupInfra"
+    - title: "Enterprise"
+      payload: "Enterprise"
+  utter_ask_PSAID:
+  - text: "Please enter your PSAID"
+  utter_ask_name:
+  - text: "Please enter your name"
+  utter_ask_email:
+  - text: "Please enter your email"
+  utter_onit:
+  - text: "I'm working on it."
+  utter_goodbye:
+  - text: "goodbye"
+  - text: "Bye-bye"
+
+actions:
+  - utter_greet_howmayihelp
+  - utter_password_reset
+  - utter_ask_what_password
+  - utter_ask_PSAID
+  - utter_ask_name
+  - utter_ask_email
+  - bot.isvalidid
+  - bot.isvalidemail
+  - utter_onit
+  - utter_goodbye
